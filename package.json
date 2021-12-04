@@ -39,10 +39,10 @@
     "linkedin"
   ],
   "peerDependencies": {
-    "dustjs-linkedin": "^3.0.0"
+    "dustjs": "@nanoamp/dustjs#semver:^3.0.0"
   },
   "devDependencies": {
-    "dustjs-linkedin": "^3.0.0",
+    "dustjs-linkedin": "@nanoamp/dustjs#semver:^3.0.0",
     "grunt": "~0.4.2",
     "grunt-cli": "~0.1.13",
     "grunt-contrib-jshint": "~0.11.1",
